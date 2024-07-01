@@ -37,9 +37,9 @@ Modifications: We may modify these Terms at any time by posting the revised Term
 Termination: We reserve the right to terminate or suspend your access to the App at any time, with or without cause, and without notice.
 
 Governing Law
-Jurisdiction: These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles.
+Jurisdiction: These Terms shall be governed by and construed in accordance with the laws of the state of New York, without regard to its conflict of law principles.
 Contact Us
-If you have any questions about these Terms, please contact us at [Your Contact Email].
+If you have any questions about these Terms, please contact us at edwards.lukec@gmail.com.
 
 Acknowledgement
 By using the App, you acknowledge that you have read and understood these Terms and agree to be bound by them.
